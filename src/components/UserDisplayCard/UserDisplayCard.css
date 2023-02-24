@@ -1,0 +1,18 @@
+.displayCard {
+    font-family: sans-serif;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: 0 4vw 0 4vw;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.profilePic {
+    max-width: 20vw;
+}
+
+.displayCard:hover {
+    cursor: pointer;
+}
